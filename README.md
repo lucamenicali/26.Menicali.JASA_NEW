@@ -1,3 +1,5 @@
+# 26.Menicali.JASA
+
 Supplemental codes for "A Physics-Informed Spatiotemporal Deep Learning Framework for Turbulent Systems"
 
 There are the following scripts in the `code` folder:
@@ -16,5 +18,6 @@ To reproduce the results from the manuscript, the user should first run `cae_mod
 To reproduce the Tables and Figures in the manuscript:
 - The script `cae_results.py` reproduces the spatial results in Table 1 and Figure 2.
 - The script `pi_crnn_results.py` reproduces the temporal results in Table 2 and Figure 3.
+
 
 

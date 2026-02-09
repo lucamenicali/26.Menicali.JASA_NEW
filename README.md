@@ -1,4 +1,4 @@
-Supplemental codes for "A Physics-Informed Spatiotemporal Deep Learning Framework for Turbulent Systems".
+***Supplemental codes for "A Physics-Informed Spatiotemporal Deep Learning Framework for Turbulent Systems".***
 
 There are the following scripts in the `code` folder:
 
